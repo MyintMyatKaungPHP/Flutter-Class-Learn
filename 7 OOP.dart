@@ -1,5 +1,5 @@
 class Student {
-  // Attributes လို့ခေါ်ပါသည်။
+  // Attributes
   String id, name, major;
 
   // Constructor
