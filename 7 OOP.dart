@@ -1,5 +1,5 @@
 class Student {
-  // Attributes
+  // Attributes လို့ခေါ်ပါသည်။
   String id, name, major;
 
   // Constructor
@@ -34,6 +34,7 @@ void main() {
     students[i].displayInfo();
   }
   print("\nFor In");
+
   for (Student s in students) {
     s.displayInfo();
   }
